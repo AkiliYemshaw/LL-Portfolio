@@ -1,5 +1,10 @@
+import React from "react";
+import WorkInProgress from "../Components/WorkInProgress";
+
 function Login() {
-    return null;
+    return (
+        <WorkInProgress/>
+    );
 }
 
 export default Login;
